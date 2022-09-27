@@ -1,8 +1,10 @@
-# Monosparta
+# Monosparta README
 
 如有任何問題或建議，請至官方招募頁面查看，[Monosparta Code Camp](http://monosparta.org/)，或是按讚追蹤私訊 創科資訊 Trunk Studio 粉絲專頁，我們的小編會盡力在上班時間回覆你。
 
-官方網站：[https://monosparta.org/](https://monosparta.org/)培訓申請：[http://monosparta.com/jobs](http://monosparta.com/jobs/detail/28?utm_campaign=jobs-promotion&utm_medium=Website&utm_source=KKTIX+%E8%AA%AA%E6%98%8E%E6%9C%83)
+官方網站：[https://monosparta.org/](https://monosparta.org/)
+
+培訓申請：[http://monosparta.com/jobs](http://monosparta.com/jobs/detail/28?utm_campaign=jobs-promotion&utm_medium=Website&utm_source=KKTIX+%E8%AA%AA%E6%98%8E%E6%9C%83)
 
 ## **｜為什麼要參加實戰訓練營？**
 
@@ -16,7 +18,8 @@
 
 找到自己想要的工作，最好的方法就是「讓好工作自己來找你」，或者讓好工作的面試官不會拒絕你。但說來簡單做起來卻格外困難，試想一位新手想要闖蕩武林，花了幾年練習武功秘笈上面的所有招式，但從未上過擂台真刀真槍PK過，會再多的招式也只能算是華麗的花拳繡腿呀！
 
-## ****
+***
+
 
 ## **｜參加培訓的目標是什麼？**
 
@@ -85,7 +88,8 @@
 
 但是參訓學員並不用為此擔心，因為在你具備相關專業能力和累積足夠經驗後，通常會有很多工作機會等著你挑選，你也可以把去面試的心得回來和其他人分享討論，或是尋求職場導師及教練們，對於你的求職簡歷及學習方向給予建議。
 
-## ****
+***
+
 
 ## **｜創科資訊是一個什麼樣的組織？**
 
@@ -93,7 +97,8 @@
 
 秉持著對專業技術與創新研發的堅持，以「軟體實力」成為協助台灣企業走向世界舞台的推手，公司格外重視軟體人才的養成與技術社群分享交流的文化，除了在台中設立以孵化未來資訊人才為宗旨的「Monospace 共同工作空間」，同時也開辦軟體開發實戰訓練營，將更多軟體研發所需專業知識、技術與經驗，傳承給更多有志成為專業資訊人才推動產業升級的青年。
 
-## ****
+***
+
 
 ## **｜歷年培訓成效如何？**
 
@@ -113,13 +118,18 @@
 
 ![https://t.kfs.io/organization_resource_files/7028/38861/20819653_905073239646964_6155281334759942704_o__1_.jpg](https://t.kfs.io/organization_resource_files/7028/38861/20819653_905073239646964_6155281334759942704_o__1_.jpg)
 
+![https://t.kfs.io/organization_resource_files/7028/49517/IMG_3829.JPG](https://t.kfs.io/organization_resource_files/7028/49517/IMG_3829.JPG)
+
+![https://t.kfs.io/organization_resource_files/7028/49518/PXL_20220826_055333433.jpg](https://t.kfs.io/organization_resource_files/7028/49518/PXL_20220826_055333433.jpg)
+
 ## **｜誰適合參加訓練營？**
 
 - 資訊相關科系 **或** 已經具備程式設計基礎能力
 - 畢業 3 年以內的新鮮人
 - 大學生也可以每週至少30小時可以投入學習
 
-## ****
+***
+
 
 ## **｜報名費用多少錢？**
 
@@ -129,7 +139,8 @@
 - 不收取保證金
 - 訓練期間教材由公司贊助
 
-## ****
+***
+
 
 ## **｜有名額限制嗎？**
 
@@ -137,7 +148,8 @@
 
 因場地容量限制且為顧及培訓成效，必須先通過審核錄取才能參加該梯次培訓。
 
-## ****
+***
+
 
 ## **｜如何通過資格審核？**
 
@@ -150,7 +162,8 @@
 3. (Optional) 個人簡歷與作品集
 4. (Optional) 推薦信
 
-## ****
+***
+
 
 ## **｜立即投遞履歷，完成報名**
 
@@ -206,7 +219,8 @@
 
 認識 DevOps 實務流程，使用自動化流程進行 CI（持續整合）與 CD（持續部署），將通過測試的軟體服務發佈到 Linux 伺服器、K8S 容器或 AWS 雲端服務。
 
-## ****
+***
+
 
 ## **｜常見問題**
 
