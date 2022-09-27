@@ -1,17 +1,3 @@
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
-# Monosparta 
-
 如有任何問題或建議，請至官方招募頁面查看，[Monosparta Code Camp](http://monosparta.org/)，或是按讚追蹤私訊 創科資訊 Trunk Studio 粉絲專頁，我們的小編會盡力在上班時間回覆你。
 
 官方網站：[https://monosparta.org/](https://monosparta.org/)
