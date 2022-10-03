@@ -1,10 +1,8 @@
 如有任何問題或建議，請至官方招募頁面查看，[Monosparta Code Camp](http://monosparta.org/)，或是按讚追蹤私訊 創科資訊 Trunk Studio 粉絲專頁，我們的小編會盡力在上班時間回覆你。
 
-官方網站：[https://monosparta.org/](https://monosparta.org/)
-
-培訓申請：[http://monosparta.com/jobs](http://monosparta.com/jobs/detail/28?utm_campaign=jobs-promotion&utm_medium=Website&utm_source=KKTIX+%E8%AA%AA%E6%98%8E%E6%9C%83)
-
-
+- 立即加入線上體驗課程：[https://classroom.google.com/c/NTI2MTU5NDkyNjc5?cjc=2usnr4r](https://classroom.google.com/c/NTI2MTU5NDkyNjc5?cjc=2usnr4r)
+- 官方網站：[https://monosparta.org/](https://monosparta.org/)
+- 培訓申請：[http://monosparta.com/jobs](http://monosparta.com/jobs)
 
 Monosparta 是由「創科資訊」推出的軟體工程師斯巴達式實戰訓練營，我們致力於為想要進入職場、提升能力與累積經驗的新手，創造最佳的高效學習環境，就像進到精神時光屋修練。
 
